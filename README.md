@@ -1,6 +1,6 @@
 ### Hejsan! 👋
 
-## Mitt namn är [Rasmus](#)
+## Mitt namn är Rasmus
 
 Jag utbildar mig i dagsläget systemutvecklare och letar efter mitt första uppdrag
 - 📫 Ni kan nå mig via mail ras.muse@hotmail.com eller komma i kontakt med mig via [LinkedIn](https://www.linkedin.com/in/rasmus-eliasson-290789247/).
