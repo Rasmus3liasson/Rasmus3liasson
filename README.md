@@ -1,11 +1,11 @@
 
 ## Hejsan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-👨‍💻 Jag är för närvarande mitt uppe i min utbildning som systemutvecklare. Jag älskar att lösa komplexa problem och skapa innovativa lösningar med kod. Min passion för programmering växer för varje projekt jag arbetar med.
+👨‍💻 Jag är för närvarande mitt uppe i min utbildning som systemutvecklare. Jag älskar att lösa komplexa problem och skapa innovativa lösningar med kod.
 
-💪 Jag är en entusiastisk träningsnörd som alltid strävar efter att förbättra mig själv. När jag inte är upptagen med att koda, hittar du mig troligtvis på gymmet eller ute och springer.
+💪 När jag inte är upptagen med att koda, hittar du mig troligtvis på gymmet eller ute i spåret.
 
-☕ Jag älskar att socialisera mig och träffa nya människor över en kopp kaffe. 
+☕  Även en stor passion för ett gott surr över en kopp kaffe . 
 
 📫 Ni kan nå mig via mail ras.muse@hotmail.com eller komma i kontakt med mig via [LinkedIn](https://www.linkedin.com/in/rasmus-eliasson-290789247/).
 
