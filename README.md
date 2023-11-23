@@ -1,11 +1,9 @@
 
 ## Hejsan 👋
 
-👨‍💻 Jag är för närvarande mitt uppe i min utbildning som systemutvecklare. Jag tycker det är väldigt roligt att lösa problem med kod och komma på lösningar till olika problem.
+👨‍💻 Jag är för närvarande mitt uppe i min utbildning som systemutvecklare. Jag tycker det är väldigt roligt att lösa problem med hjälp utav kod.
 
 ☕️ Att sitta och koda är inte allt jag gör, utvöver det så umgås jag mycket med vänner och tränar en del.
-
-💻 __Letar praktikplats under veckorna 6-21__.
 
 📫 Ni kan nå mig via mail ras.muse@hotmail.com eller komma i kontakt med mig via [LinkedIn](https://www.linkedin.com/in/rasmus-eliasson-290789247/).
 
